@@ -1,0 +1,95 @@
+html {
+  /* Inside the quotes of url() is where to place the URL to the background image */
+  background-image: url("http://farm8.staticflickr.com/7115/7882079648_d9315bd8c5_o.jpg");
+
+
+  background-color: #efefef;
+  font-size: 100%;
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  margin: 0;
+  background-position: center top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0.5em;
+  max-width: 900px;
+}
+
+#content img {
+  max-width: 100%;
+}
+
+#navigation {
+  margin-bottom: 3em;
+}
+
+#navigation a {
+  color: #fff;
+  text-shadow: 0 0 2px rgba(0,0,0,0.6);
+  text-decoration: none;
+}
+
+#navigation a:hover {
+  border-bottom: 2px solid yellow;
+}
+
+#navigation a.active {
+  border-bottom: 2px solid #fff;
+}
+
+#navigation h1 {
+  display: inline;
+  font-size: 1.4em;
+  font-weight: normal;
+  margin-right: 1.5em;
+}
+
+#navigation ul {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  list-style: none;
+}
+
+#navigation ul li {
+  display: inline;
+  margin: 0 1em;
+}
+
+#navigation ul li:first-child {
+  margin-left: 0;
+}
+
+#front-wrapper {
+  color: #fff;
+  text-shadow: 0 0 2px rgba(0,0,0,0.6);
+  margin: 3em auto;
+}
+
+#page-wrapper {
+  background-color: rgba(220,220,220,0.9);
+  padding: 0.5em 1.5em 1em;
+  margin: 2em auto;
+  line-height: 1.4em;
+}
+
+#page-wrapper.work h3 {
+  font-size: 1.6em;
+  margin: 3em 0 0.25em;
+  padding: 0;
+}
+
+#page-wrapper.work h3:first-child {
+  margin-top: 1em;
+}
+
+#page-wrapper.work h4 {
+  margin: 0.25em 0 1em;
+  padding: 0;
+  font-style: italic;
+  font-weight: normal;
+}
