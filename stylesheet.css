@@ -6,6 +6,7 @@ html {
   background-color: #efefef;
   font-size: 100%;
   font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-weight: normal;
   margin: 0;
   background-position: center top;
   background-attachment: fixed;
@@ -16,7 +17,13 @@ html {
 body {
   margin: 0 auto;
   padding: 0.5em;
+}
+
+#content,
+#front-wrapper,
+#page-wrapper {
   max-width: 900px;
+  margin: 0 auto;
 }
 
 #content img {
@@ -25,6 +32,8 @@ body {
 
 #navigation {
   margin-bottom: 3em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 #navigation a {
@@ -44,7 +53,6 @@ body {
 #navigation h1 {
   display: inline;
   font-size: 1.4em;
-  font-weight: normal;
   margin-right: 1.5em;
 }
 
