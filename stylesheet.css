@@ -87,23 +87,33 @@ body {
   padding: 0.5em 1.5em 1em;
   margin: 2em auto;
   line-height: 1.4em;
+  overflow: auto;
 }
 
-#page-wrapper.work h3 {
-  font-size: 1.6em;
-  margin: 3em 0 0.25em;
-  padding: 0;
+.work-thumbnail {
+  background-attachment: center center;
+  background-size: cover;
+  width: 49%;
+  height: 300px;
+  margin: 1em 1% 1em 0;
+  float: left;
 }
 
-#page-wrapper.work h3:first-child {
-  margin-top: 1em;
+.work-thumbnail:nth-child(2n) {
+  margin-right: 0;
+  margin-left: 1%;
 }
 
-#page-wrapper.work h4 {
-  margin: 0.25em 0 1em;
-  padding: 0;
-  font-style: italic;
-  font-weight: normal;
+.work-thumbnail a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.work-thumbnail a:hover {
+  text-decoration: none;
+  border: none;
+  border-bottom: 5px solid yellow;
 }
 
 .scoot-post {

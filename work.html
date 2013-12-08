@@ -1,0 +1,12 @@
+---
+layout: pages
+title: Work
+permalink: work/index.html
+---
+
+{% for work in site.posts %}
+<div class="work-thumbnail" style="background-image:url('{{work.thumbnail}}');">
+<a href="{{work.url}}">
+</a>
+</div>
+{% endfor %}

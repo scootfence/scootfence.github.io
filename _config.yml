@@ -1,4 +1,5 @@
+markdown: rdiscount
 pygments: true
-permalink: /:year/:month/:day/:title
+permalink: none
 exclude: ["Readme.md"]
 name: Andrew Braddock
