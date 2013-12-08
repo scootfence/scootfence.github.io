@@ -52,16 +52,31 @@ That stuff is special. It's needed, you'll see that there are things to the left
 
 ## Work
 
-The contents of **Work** is set in [work.md](https://github.com/scootfence/scootfence.github.io/blob/master/work.md). The template I created to make it easy to edit and yet also to separate items is such:
+The contents of **Work** is set in [work.md](https://github.com/scootfence/scootfence.github.io/blob/master/work.md) and is populated by the files in [_posts]()
 
-```markdown
-### Title of Work
-#### Subtitle of Work, year, place, etc
+## Adding an Item to Work
 
-description of work, including images and video and text
+To add a page for a project to work, create a new file by [clicking here](https://github.com/scootfence/scootfence.github.io/new/master/_posts).
+
+In the field to "Name your file" name the file like so:
+
+```
+YYYY-MM-DD-TITLE.md
 ```
 
-This will put a bunch of empty space before this title, after whatever the last project was and will make the title Big. _Technical Note:_ The 3 # signs will be converted to an &lt;h3&gt; symbol.
+Where YYYY-MM-DD is a date. The order of dates determines how the posts are arranged on the screen in thumbnails. And then TITLE is just whatever you want to call the file, but with NO SPACES. And ".md" is the filetype, and is important to have.
+
+The next important part in a new file is the "frontmatter" which is used to set the title, category, and other info for the site to use. Frontmatter for a Work item looks like so
+
+```yaml
+---
+title: Becoming Corpus
+category: work
+thumbnail: http://leimaymain.cavearts.org/wp-content/uploads/2013/05/Andrew-SQR.jpg
+---
+```
+
+Please have those three items, a title, the category "work" and a URL to a thumbnail for an image. After that, the `---` and then whatever the heck.
 
 ## About
 
