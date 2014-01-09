@@ -5,7 +5,7 @@ thumbnail: /test.jpg
 layout: pages
 ---
 
-## Title of work
+## Dance Reel
 
 ### subtitle or such
 
