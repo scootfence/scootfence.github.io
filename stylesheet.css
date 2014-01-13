@@ -47,7 +47,7 @@ body {
 }
 
 #navigation a:hover {
-  border-bottom: 2px solid yellow;
+  border-bottom: 2px solid white;
 }
 
 #navigation a.active {
@@ -113,7 +113,7 @@ body {
 .work-thumbnail a:hover {
   text-decoration: none;
   border: none;
-  border-bottom: 5px solid yellow;
+  border-bottom: 5px solid white;
 }
 
 .scoot-post {
