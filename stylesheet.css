@@ -42,7 +42,7 @@ body {
 
 #navigation a {
   color: #fff;
-  text-shadow: 0 0 2px rgba(0,0,0,0.6);
+  text-shadow: 0 0 2px rgba(0,0,0,0.4);
   text-decoration: none;
 }
 
@@ -83,7 +83,7 @@ body {
 }
 
 #page-wrapper {
-  background-color: rgba(220,220,220,0.9);
+  background-color: rgba(220,220,220,0.4);
   padding: 0.5em 1.5em 1em;
   margin: 2em auto;
   line-height: 1.4em;
