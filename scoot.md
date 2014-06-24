@@ -7,4 +7,4 @@ layout: pages
 
 This Friday at 8pm, at this place, map below
 
-<iframe src="/abraddock.jpg" width="600" height="450" frameborder="0" style="border:0"></iframe>
+<iframe url="/abraddock.jpg" width="600" height="450" frameborder="0" style="border:0"></iframe>
