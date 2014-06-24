@@ -7,4 +7,4 @@ layout: pages
 
 "Determinism is probably true."
 
-<img url="/ABraddock.jpg">
+<img src="/ABraddock.jpg">
