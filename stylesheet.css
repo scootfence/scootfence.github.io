@@ -59,7 +59,7 @@ body {
 }
 
 #navigation a:hover {
-  border-bottom: 2px solid white;
+  border-bottom: 2px rgba(153,255,44,0.9);
 }
 
 #navigation a.active {
