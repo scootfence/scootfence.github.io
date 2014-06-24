@@ -3,6 +3,6 @@ permalink: scoot/index.html
 title: Scoot
 layout: pages
 ---
-## "Determinism is probably true."
+UNSTOPPABLE. IMMOVABLE.
 
 <center><img src="/ABraddock.jpg"></center>
