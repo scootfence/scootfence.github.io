@@ -6,7 +6,7 @@ permalink: about/index.html
 
 Very Strong.
 
-Here's proof:
+Proof:
 
 ## CV
 
