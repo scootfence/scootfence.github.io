@@ -7,4 +7,4 @@ layout: pages
 
 "Determinism is probably true."
 
-<iframe url="/abraddock.jpg" frameborder="0" style="border:0"></iframe>
+<img src="abraddock.jpg">
