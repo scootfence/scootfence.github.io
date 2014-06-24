@@ -63,7 +63,7 @@ body {
 }
 
 #navigation a.active {
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid rgba(153,255,44,0.9);
 }
 
 #navigation h1 {
