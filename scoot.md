@@ -3,8 +3,8 @@ permalink: scoot/index.html
 title: Scoot
 layout: pages
 ---
-In the end, all that is left is the inexorability of the Stump, the irredeemability of the Stump.
+IN THE END, ALL THAT IS LEFT IS THE INEXORABILITY OF THE STUMP.
 
-All that remains is the Stump as strange attractor. The subject is no longer a strange attractor. We know the subject too well; the subject knows himself too well. It is the Stump that is exciting.
+ALL THAT REMAINS IS THE STUMP AS STRANGE ATTRACTOR. THE SUBJECT IS NO LONGER A STRANGE ATTRACTOR.
 
 <center><img src="/ABraddock.jpg"></center>
