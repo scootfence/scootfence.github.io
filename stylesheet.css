@@ -53,7 +53,7 @@ body {
 }
 
 #navigation a {
-  color: #fff;
+  color: solid black;
   text-shadow: 0 0 2px rgba(153,255,44,0.9);
   text-decoration: none;
 }
