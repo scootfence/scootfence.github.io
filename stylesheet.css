@@ -125,7 +125,7 @@ body {
 .work-thumbnail a:hover {
   text-decoration: none;
   border: none;
-  border-bottom: 5px solid white;
+  border-bottom: 5px solid rgba(153,255,44,0.9);
 }
 
 .scoot-post {
