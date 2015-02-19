@@ -5,7 +5,7 @@ permalink: about/index.html
 ---
 
 
-## History
+History
 2014
 
 2014	-FreeFallen, Panoply Performance Laboratory Brooklyn: video piece presented as part of “Sequence” 
