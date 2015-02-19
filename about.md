@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: About &amp; CV
+title: Aboutt &amp; CV
 permalink: about/index.html
 ---
 
@@ -8,7 +8,7 @@ Very Strong.
 
 Proof:
 
-## CV
+## Performance & Exhibition
 
 - Thing
 - Thing
