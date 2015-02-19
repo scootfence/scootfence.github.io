@@ -1,5 +1,5 @@
 ---
-title: Improv Reel
+title: The Question Concerning Technology 2
 category: work
 thumbnail: http://leimaymain.cavearts.org/wp-content/uploads/2013/05/Andrew-SQR.jpg
 layout: pages
