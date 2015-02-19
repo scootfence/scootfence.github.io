@@ -23,7 +23,7 @@ body {
 
 /* Font for pretty much everything else */
 body {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Courier New", Courier, monospace;
 }
 
 /* Font for 'navigation' */
