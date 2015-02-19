@@ -1,13 +1,14 @@
 ---
 layout: pages
-title: Aboutt &amp; CV
+title: History &amp; CV
 permalink: about/index.html
 ---
 
 
 ## History
+2014
 
-2014	-FreeFallen, Panoply Performance Laboratory Brooklyn: video piece presented as part of “Sequence” 
+font face="verdana" 2014	-FreeFallen, Panoply Performance Laboratory Brooklyn: video piece presented as part of “Sequence” 
 	exhibition, (excerpted from Lumber Nups).
 
 	-Antibody Corporation: Imagine, JACK, Brooklyn: evening-length performance with Adam Rose and José 
