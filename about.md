@@ -4,9 +4,9 @@ title: History &amp; CV
 permalink: about/index.html
 ---
 History
-<br>
+<br><br>
 2014
-<br>
+<br><br>
 - Thing
 - More Things
     - sub thing
