@@ -1,7 +1,7 @@
 ---
 title: SQR3
 category: work
-thumbnail: /Images/SQ3.jpg
+thumbnail: /Images/SQR3.jpg
 layout: pages
 ---
 <div style="text-align: center;">
