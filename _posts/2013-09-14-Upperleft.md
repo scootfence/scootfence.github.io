@@ -1,7 +1,7 @@
 ---
 title: Lumber Nups Trailer
 category: work
-thumbnail: http://leimaymain.cavearts.org/wp-content/uploads/2013/05/Andrew-SQR.jpg
+thumbnail: /Images/Trailer.jpg
 layout: pages
 ---
 <div style="text-align: center;">
