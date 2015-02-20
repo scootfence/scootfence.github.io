@@ -4,9 +4,7 @@ title: History &amp; CV
 permalink: about/index.html
 ---
 <font size="2">
-<font size="3">
 2014
-</font>
 <br><br>
 -<i>FreeFallen</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: video piece presented as part of "Sequence"
 <br>-<i>Antibody Corporation: Imagine</i>, <b>JACK</b>, Brooklyn: performance with Adam Rose and José Hernandez
