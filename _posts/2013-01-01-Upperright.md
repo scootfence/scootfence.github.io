@@ -1,7 +1,7 @@
 ---
 title: The Question Concerning Technology 2
 category: work
-thumbnail: /Images/Dummydoor.jpg
+thumbnail: /Images/DummyDoor.jpg
 layout: pages
 ---
 <div style="text-align: center;">
