@@ -38,7 +38,7 @@ permalink: about/index.html
 <br><br>
 -<i>Your Teeth, My Mouth</i>, <b>Epiphany Church</b>, Chicago: solo performance
 <br><br>
-<b>---------------------------------------</b>
+<b>------------------</b>
 <br><br>
 2014 - Artist in Residence, <b>The Wassaic Project</b>, New York
 <br>2011 - Artist in Residence, <b>The MacDowell Colony</b>, New Hampshire
