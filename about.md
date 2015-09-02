@@ -6,6 +6,13 @@ permalink: about/index.html
 <font size="2">
 contact: braddocka@gmail.com
 <br><br>
+2015
+<br><br>
+-<i>Feedback</i>, <b>Flux Factory</b>, Queens: live film/performance for HUMAN TRASH DUMP, part of the STROBE network event
+<br>-<i>Tanning Bed</i>, <b>Little Berlin</b>, Philadelphia: performance and sculpture collaboration with Stefan Gunn for "My Dream House" exhibition
+<br>-<i>MEATTRUCK</i>, <b>Beyond Baroque (Los Angeles), ABC NO RIO (NYC), Lacuna Club (Portland, OR), Grace Space (Brooklyn)</b>: film collaboration with David Ian Griess and Elizabeth Lamb
+<br>-<i>Before/After</i>, <b>Vox Populi</b>, Philadelphia: solo performance as part of "January 13"
+<br><br>
 2014
 <br><br>
 -<i>FreeFallen</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: video piece presented as part of "Sequence"
