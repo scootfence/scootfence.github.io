@@ -1,7 +1,7 @@
 ---
 title: Tanning Bed
 category: work
-thumbnail: /Images/Doppel.jpg
+thumbnail: /Images/tanner.jpg
 layout: pages
 ---
 <div style="text-align: center;">
