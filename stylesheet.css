@@ -54,7 +54,7 @@ body {
 
 #navigation a {
   color: #808080;
-  text-shadow: 0 0 2px rgba(153,255,44,0.9);
+  text-shadow: 0 0 2px rgba(0,0,0,0.4);
   text-decoration: none;
 }
 
