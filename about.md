@@ -6,6 +6,11 @@ permalink: about/index.html
 <font size="2">
 contact: braddocka@gmail.com
 <br><br>
+2016
+<br><br>
+-<i>The Word</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: solo performance with object for "Trauma Salon," curated by The Super Coda
+<br>-<i>Trugs, CARPET EP</i>: video work released on HUMAN TRASH DUMP label
+<br><br>
 2015
 <br><br>
 -<i>PROTIV</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: Curated by Antibody Corporation with Eames Armstrong, The Buttress, Dasha Filippova, and Adam Rose
