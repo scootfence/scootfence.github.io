@@ -8,12 +8,12 @@ contact: braddocka@gmail.com
 <br><br>
 2016
 <br><br>
--<i>The Word</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: solo performance with object for "Trauma Salon," curated by The Super Coda
-<br>-<i>Trugs, CARPET EP</i>: video work released on HUMAN TRASH DUMP label
+-<i>The Word</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: lecture with object for "Trauma Salon," curated by The Super Coda
+<br>-<i>Trugs, CARPET EP</i>: videos released on HUMAN TRASH DUMP label
 <br><br>
 2015
 <br><br>
--<i>PROTIV</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: Curated by Antibody Corporation with Eames Armstrong, The Buttress, Dasha Filippova, and Adam Rose
+-<i>PROTIV</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: Antibody Corporation performance with Eames Armstrong, The Buttress, Dasha Filippova, and Adam Rose
 <br>-<i>Reinvest in TVs</i>, <b>Gowanus Ballroom</b>, Brooklyn: television performance with David Ian Griess as part of Non Grata's "Diverse Universe"
 <br>-<i>Against Being</i>, <b>Links Hall</b>, Chicago: performance created and directed by Adam Rose of Antibody Corporation
 <br>-<i>Tanning Bed</i>, <b>Little Berlin</b>, Philadelphia: performance and sculpture collaboration with Stefan Gunn for "My Dream House" exhibition
