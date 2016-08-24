@@ -1,7 +1,7 @@
 ---
 title: GREENCARPET
 category: work
-thumbnail: /Images/Trailer.jpg
+thumbnail: /Images/Greencover.jpg
 layout: pages
 ---
 <div style="text-align: center;">
