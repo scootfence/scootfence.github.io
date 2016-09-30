@@ -8,7 +8,7 @@ contact: braddocka@gmail.com
 <br><br>
 2016
 <br><br>
---<i>Performance with Projected Camera Loop Induction</i>, <b>Mobius (Boston), AS220 (Providence), JACK (Brooklyn) </b>, Solo performance as part of Antibody Corporation's "Antiworlds" tour
+-<i>Performance with Projected Camera Loop Induction</i>, <b>Mobius (Boston), AS220 (Providence), JACK (Brooklyn)</b>: solo performance as part of Antibody Corporation's "Antiworlds" tour
 <br>-<i>The Word</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: lecture with object for "Trauma Salon," curated by The Super Coda
 <br>-<i>Trugs, CARPET EP</i>: videos released on HUMAN TRASH DUMP label
 <br><br>
