@@ -4,4 +4,4 @@ title: Scoot
 layout: pages
 ---
 
-<center><img src="/Images/Strobe.png"></center>
+<center><img src="/Images/Induction.jpg"></center>
