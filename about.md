@@ -8,7 +8,7 @@ contact: braddocka@gmail.com
 <br><br>
 2016
 <br><br>
--<i>Performance with Projected Camera Loop Induction</i>, <b>Mobius</b> (Boston), <b>AS220</b> (Providence), <b>JACK</b> (Brooklyn): part of Antibody Corporation's "Antiworlds" tour
+-<i>Performance with Projected Camera Loop Induction</i>, <b>Mobius</b> (Boston), <b>AS220</b> (Providence), <b>JACK</b> (Brooklyn): part of Antibody Corporation's "Antiworlds" tour. Also presented as part of "The Hidden Valley" curated by Wild Embeddings/PULSAR
 <br>-<i>The Word</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: lecture with object for "Trauma Salon," curated by The Super Coda
 <br>-<i>Trugs, CARPET EP</i>: videos released on HUMAN TRASH DUMP label
 <br><br>
@@ -53,9 +53,15 @@ contact: braddocka@gmail.com
 <br>-<i>Untitled Improvisation</i>, <b>Millennium Park Pritzker Pavilion</b>, Chicago: butoh improvisation with Blushing Poppy Dance, directed by Nicole Legette, as part of the "Umbrella Music Festival"
 <br>-<i>Communist Boys/Fascist Girls</i>, <b>High Concept Labs</b>, Chicago: duet with Adam Rose
 <br><br>
-2009
-<br><br>
--<i>Your Teeth, My Mouth</i>, <b>Epiphany Church</b>, Chicago: solo performance
+Video
+<br>
+2016
+<br>
+-<i>video installation</i>, <b>Luxury Lounge</b>, Brooklyn: multiple teevee installation by Human Trash Dump for noise show
+<br>
+-<i>MEATTRUCK</i>, <b>"Post-Dance Symposium", Panoply Performance Labs</b>, Brooklyn: performance video created with David Ian Griess and Elizabeth Lamb for Human Trash Dump
+<br>
+-<i>Triple</i>, <b>"Highway to Hell", Otion Front Studio</b>, Brooklyn: solo dance video with projector layering
 <br><br>
 <b>------------------</b>
 <br><br>
