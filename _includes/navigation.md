@@ -9,9 +9,9 @@
     <a {% if current_page == 'work' %}class="active"{%endif%} href="/work">AB</a>
   </li>
   <li>
-    <a {% if current_page == 'about' %}class="active"{%endif%} href="/about">ABAB</a>
+    <a {% if current_page == 'about' %}class="active"{%endif%} href="/about">AABB</a>
   </li>
   <li>
-    <a href="/scoot">ABABAB</a>
+    <a href="/scoot">AAABBB</a>
   </li>
 </ul>
