@@ -10,7 +10,7 @@ contact: braddocka@gmail.com
 <br><br>
 -<i>Performance with Projected Camera Loop Induction</i>, <b>Mobius</b> (Boston), <b>AS220</b> (Providence), <b>JACK</b> (Brooklyn): part of Antibody Corporation's "Antiworlds". Also presented for "The Hidden Valley" curated by Wild Embeddings/PULSAR
 <br>-<i>Triple</i>, <b>Otion Front Studio</b>, Brooklyn: solo dance video with projector layering for "Highway to Hell"
-<br>-<i>HTD installation</i>, <b>Luxury Lounge</b>, Brooklyn: nine-channel TV installation by Human Trash Dump
+<br>-<i>Garbage Bags</i>, <b>Luxury Lounge</b>, Brooklyn: nine-channel TV installation by Human Trash Dump
 <br>-<i>The Word</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: lecture with object for "Trauma Salon," curated by The Super Coda
 <br>-<i>Trugs, CARPET EP</i>: videos released on HUMAN TRASH DUMP label
 <br><br>
