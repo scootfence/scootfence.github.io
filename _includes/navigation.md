@@ -6,12 +6,12 @@
 
 <ul>
   <li>
-    <a {% if current_page == 'work' %}class="active"{%endif%} href="/work">AB</a>
+    <a {% if current_page == 'work' %}class="active"{%endif%} href="/work">ANDRW BRDDOC</a>
   </li>
   <li>
-    <a {% if current_page == 'about' %}class="active"{%endif%} href="/about">AABB</a>
+    <a {% if current_page == 'about' %}class="active"{%endif%} href="/about">NDR RDDO</a>
   </li>
   <li>
-    <a href="/scoot">AAABBB</a>
+    <a href="/scoot">ND DD</a>
   </li>
 </ul>
