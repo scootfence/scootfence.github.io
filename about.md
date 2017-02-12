@@ -9,6 +9,8 @@ contact: braddocka@gmail.com
 2016
 <br><br>
 -<i>Performance with Projected Camera Loop Induction</i>, <b>Mobius</b> (Boston), <b>AS220</b> (Providence), <b>JACK</b> (Brooklyn): part of Antibody Corporation's "Antiworlds" tour. Also presented as part of "The Hidden Valley" curated by Wild Embeddings/PULSAR
+<br>-<i>Triple</i>, <b>"Highway to Hell", Otion Front Studio</b>, Brooklyn: solo dance video with projector layering
+<br>-<i>video installation</i>, <b>Luxury Lounge</b>, Brooklyn: nine-channel TV installation by Human Trash Dump
 <br>-<i>The Word</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: lecture with object for "Trauma Salon," curated by The Super Coda
 <br>-<i>Trugs, CARPET EP</i>: videos released on HUMAN TRASH DUMP label
 <br><br>
@@ -20,7 +22,7 @@ contact: braddocka@gmail.com
 <br>-<i>Tanning Bed</i>, <b>Little Berlin</b>, Philadelphia: performance and sculpture collaboration with Stefan Gunn for "My Dream House" exhibition
 <br>-<i>Feedback</i>, <b>Flux Factory</b>, Queens: live film/performance for HUMAN TRASH DUMP, part of the STROBE network event
 <br>-<i>Tanning Bed</i>, <b>Little Berlin</b>, Philadelphia: performance and sculpture collaboration with Stefan Gunn for "My Dream House" exhibition
-<br>-<i>MEATTRUCK</i>, <b>various screenings</b>: film collaboration with David Ian Griess and Elizabeth Lamb
+<br>-<i>MEATTRUCK</i>, <b>various screenings</b>: film collaboration with David Ian Griess and Elizabeth Lamb for HUMAN TRASH DUMP
 <br>-<i>Before/After</i>, <b>Vox Populi</b>, Philadelphia: solo performance as part of "January 13"
 <br><br>
 2014
@@ -52,16 +54,6 @@ contact: braddocka@gmail.com
 <br>-<i>Rehearsals for Becoming Gods</i>, <b>Links Hall</b>, Chicago: ensemble performance directed by Ginger Krebs
 <br>-<i>Untitled Improvisation</i>, <b>Millennium Park Pritzker Pavilion</b>, Chicago: butoh improvisation with Blushing Poppy Dance, directed by Nicole Legette, as part of the "Umbrella Music Festival"
 <br>-<i>Communist Boys/Fascist Girls</i>, <b>High Concept Labs</b>, Chicago: duet with Adam Rose
-<br><br>
-Video
-<br>
-2016
-<br>
--<i>video installation</i>, <b>Luxury Lounge</b>, Brooklyn: multiple teevee installation by Human Trash Dump for noise show
-<br>
--<i>MEATTRUCK</i>, <b>"Post-Dance Symposium", Panoply Performance Labs</b>, Brooklyn: performance video created with David Ian Griess and Elizabeth Lamb for Human Trash Dump
-<br>
--<i>Triple</i>, <b>"Highway to Hell", Otion Front Studio</b>, Brooklyn: solo dance video with projector layering
 <br><br>
 <b>------------------</b>
 <br><br>
