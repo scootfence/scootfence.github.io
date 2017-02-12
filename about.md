@@ -27,7 +27,7 @@ contact: braddocka@gmail.com
 <br><br>
 2014
 <br><br>
--<i>FreeFallen</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: video piece presented as part of "Sequence"
+-<i>FreeFallen</i>, <b>Panoply Performance Laboratory</b>, Brooklyn: video presented as part of "Sequence"
 <br>-<i>Antibody Corporation: Imagine</i>, <b>JACK</b>, Brooklyn: performance with Adam Rose and José Hernandez
 <br>-<i>The Question Concerning Technology 2</i>, <b>Chicago Cultural Center</b>: solo performance
 <br>-<i>Lumber Nups Live</i>, <b>Panoply Performance Laboratory</b>: solo performance with object
