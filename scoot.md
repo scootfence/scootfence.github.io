@@ -5,18 +5,18 @@ layout: pages
 ---
 
 <center>
-var images = [
-    "/Images/Rotato/1.jpg",
-    "/Images/Rotato/2.jpg",
-    "/Images/Rotato/3.jpg",
-    "/Images/Rotato/4.jpg",
-    "/Images/Rotato/5.jpg"];
+<div class="one-image">            
+  <a href="">             
+    <img id="imgRand" src="" class="giThumbnail" alt="Nightclubs">
+  </a>
+  <h4 class="giDescription">              
+    Nightclubs
+  </h4>              
+</div> 
 
-function randImg() {
-    var size = images.length
-    var x = Math.floor(size * Math.random())
-    document.getElementById('image').src = images[x];
-}
-
-randImg();
+<script language="javascript">
+  // random number between 1 and 100
+  var numRand = Math.floor(Math.random()*101);
+  document.getElementById("imgRand").src = "img/IMG_"+numRand+".jpg";
+</script>
 </center>
