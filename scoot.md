@@ -6,7 +6,7 @@ layout: pages
 
 <center>
 <div class="one-image">                         
-    <img id="imgRand" src="" class="giThumbnail" alt="Nightclubs">             
+    <img id="imgRand" src="" alt="Nightclubs">             
 </div> 
 
 <script language="javascript">
