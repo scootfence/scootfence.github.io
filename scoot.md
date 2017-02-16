@@ -10,8 +10,8 @@ layout: pages
 </div> 
 
 <script language="javascript">
-  // random number between 1 and 5
-  var numRand = Math.floor(Math.random()*(5-1+1))+1;
+  // random number between 1 and 6
+  var numRand = Math.floor(Math.random()*(6-1+1))+1;
   document.getElementById("imgRand").src = "/Images/Rotato/"+numRand+".jpg";
 </script>
 </center>
