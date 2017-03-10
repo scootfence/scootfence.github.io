@@ -11,7 +11,7 @@ layout: pages
 
 <script language="javascript">
   // random number between 1 and 6
-  var numRand = Math.floor(Math.random()*(6-1+1))+1;
+  var numRand = Math.floor(Math.random()*(6))+1;
   document.getElementById("imgRand").src = "/Images/Rotato/"+numRand+".jpg";
 </script>
 </center>
